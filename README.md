@@ -1,5 +1,5 @@
 
-<img align="center" src="./assets/illustration-hero.svg"></img>
+<img align="center" width="100" height="100" src="./assets/illustration-hero.svg">
 
 <h1 align="center">Order Summary front-end card</h1>
 
