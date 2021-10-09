@@ -10,7 +10,7 @@
 
 <br>
 
-<p>-> O Projeto final pode ser visualizado <a href="#">aqui</a></p>
+<p>-> O Projeto final pode ser visualizado <a href="https://celsolpjr.github.io/order-summary-frontend/">aqui</a></p>
 
 <br>
 
