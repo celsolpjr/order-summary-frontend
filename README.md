@@ -1,6 +1,6 @@
-
-<img align="center" src="./assets/illustration-hero.svg">
-
+<div align="center">
+  <img src="./assets/illustration-hero.svg">
+</div>
 <h1 align="center">Order Summary front-end card</h1>
 
 <p>-> Projeto desenvolvido para á pratica e estudo do HTML e CSS</p>
