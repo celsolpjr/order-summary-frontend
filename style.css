@@ -101,6 +101,12 @@ body {
     font-size: 14px;
 }
 
+.card-plan a:hover {
+    transition: 300ms;
+    color: #766cf1;
+    text-decoration: none;
+}
+
 .card-buttonPayment {
     margin-top: 20px;
 }
@@ -116,6 +122,11 @@ body {
     cursor: pointer;
 }
 
+.card-buttonPayment button:hover {
+    transition: 300ms;
+    background-color: #766cf1;
+}
+
 .card-buttonCancel {
     margin-top: 26px;
     margin-bottom: 40px;
@@ -125,4 +136,9 @@ body {
     color: var(--desaturated-blue);
     font-weight: 900;
     font-size: 16px;
+}
+
+.card-buttonCancel a:hover {
+    transition: 300ms;
+    color: var(--dark-blue);
 }
