@@ -142,3 +142,31 @@ body {
     transition: 300ms;
     color: var(--dark-blue);
 }
+
+@media (max-width: 500px) {
+
+    .content {
+        margin-top: 50px;
+    }
+
+    .card {
+        width: 90%;
+    }
+
+    .card img {
+        width: 100%;
+    }
+
+    .card-plan {
+        width: 90%;
+    }
+
+    .card-plan a {
+        margin-left: 30px;
+    }
+
+    .card-buttonPayment {
+        width: 90%;
+    }
+
+}
